@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "b4bffc12-7ec6-48d0-89ca-252e826dc60f",
+      "name": "Sofra Steria",
+      "email": "sofra.steria@teoco.com"
+    },
+    {
+      "id": "5c890dce-e772-4503-983a-a40225f6b322",
+      "name": "Aryan",
+      "email": "aryan148@hotmail.com"
+    },
+    {
+      "id": "fe95036f-3086-4823-adcb-f5f89862aae5",
+      "name": "Sofi",
+      "email": "sofi@rediff.com"
+    },
+    {
+      "id": "0aff9d1c-4585-4fcf-babb-1d9570492770",
+      "name": "Jaya Sachan",
+      "email": "jaya@gmail.com"
+    },
+    {
+      "id": "d2788002-8bf4-4b9d-bcd4-9bf3ae906435",
+      "name": "Mike",
+      "email": "Mike23@amd.com"
+    },
+    {
+      "id": "3a242a09-b071-4a87-85bc-afa56f7bef2e",
+      "name": "Bhaiya Lal",
+      "email": "bhaiya@teo.coms"
+    }
+  ]
+}
